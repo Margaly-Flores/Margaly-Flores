@@ -50,9 +50,12 @@
 ---
 
 ## ✍️ Random Dev Quote
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&font=Fira%20Code)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&font=Fira%20Code)]
 
 <!--
+(https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 **Margaly-Flores/Margaly-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
