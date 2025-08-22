@@ -53,7 +53,7 @@ I work end-to-end with data: **relational modeling**, efficient **SQL**. I love 
 ---
 
 ## ✍️ Random Dev Quote
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&font=Fira%20Code)]
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 (https://github.com/piyushsuthar/github-readme-quotes)
