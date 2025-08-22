@@ -2,11 +2,11 @@
 **Data Analyst & Data Engineering Enthusiast**
 
 I work end-to-end with data: **relational modeling**, efficient **SQL**. I love turning raw data into **actionable insights** through clean analytics and clear dashboards.
-🔹 **Stack**: PostgreSQL, MySQL, IBM DB2, Firebase, AWS (Redshift, S3)
-🔹 **Languages/Libraries**: Python (Pandas, NumPy, scikit-learn, FastAPI), R, SQL / T-SQL / PL/pgSQL
-🔹 **BI**: Power BI, Tableau, Excel (advanced, pivot tables)
-🔹 **Interests**: Data Warehousing, ETL/ELT, dimensional modeling, data quality & governance, basic MLOps
-💡 Let’s build useful, scalable data products.
+- 🔹 **Stack**: PostgreSQL, MySQL, IBM DB2, Firebase, AWS (Redshift, S3)
+- 🔹 **Languages/Libraries**: Python (Pandas, NumPy, scikit-learn, FastAPI), R, SQL / T-SQL / PL/pgSQL
+- 🔹 **BI**: Power BI, Tableau, Excel (advanced, pivot tables)
+- 🔹 **Interests**: Data Warehousing, ETL/ELT, dimensional modeling, data quality & governance, basic MLOps
+- 💡 Let’s build useful, scalable data products.
 
 ---
 
