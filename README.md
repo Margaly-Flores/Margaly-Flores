@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Margaly Flores
 **Data Analyst & Data Engineering Enthusiast**
 
-I work end-to-end with data: **relational modeling**, efficient **SQL**. I love turning raw data into **actionable insights** through clean analytics and clear dashboards.
+I work end-to-end with data: **relational modeling**, efficient **SQL**. I love turning raw data into **actionable insights** through clean analytics and clear dashboards. <br>
 🔹 **Stack**: PostgreSQL, MySQL, IBM DB2, Firebase, AWS (Redshift, S3) <br>
 🔹 **Languages/Libraries**: Python (Pandas, NumPy, scikit-learn, FastAPI), R, SQL / T-SQL / PL/pgSQL <br>
 🔹 **BI**: Power BI, Tableau, Excel (advanced, pivot tables) <br>
