@@ -1,10 +1,12 @@
 ## Hi 👋 I'm Margaly Flores
 **Data Analyst & Data Engineering Enthusiast**
 
-- 💾 **Stack principal:** PostgreSQL, MySQL, AWS (Redshift, S3), Python (Pandas, NumPy, **scikit-learn**), FastAPI.
-- 🧭 **Intereses:** Data Warehousing, ETL/ELT, Modelado Dimensional, BI (Power BI / Tableau), MLOps básico.
-- 🔒 **Buenas prácticas:** control de acceso (RBAC), versionado en Git, pruebas de calidad de datos y documentación reproducible.
-- 🤝 **Abierta a colaborar** en proyectos de analítica y automatización de datos.
+I work end-to-end with data: **relational modeling**, efficient **SQL**. I love turning raw data into **actionable insights** through clean analytics and clear dashboards.
+🔹 **Stack**: PostgreSQL, MySQL, IBM DB2, Firebase, AWS (Redshift, S3)
+🔹 **Languages/Libraries**: Python (Pandas, NumPy, scikit-learn, FastAPI), R, SQL / T-SQL / PL/pgSQL
+🔹 **BI**: Power BI, Tableau, Excel (advanced, pivot tables)
+🔹 **Interests**: Data Warehousing, ETL/ELT, dimensional modeling, data quality & governance, basic MLOps
+💡 Let’s build useful, scalable data products.
 
 ---
 
