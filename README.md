@@ -9,8 +9,7 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaly-flores/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:margaly.flores.n@uni.pe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaly-flores/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:margaly.flores.n@uni.pe)
 
 ---
 
@@ -19,7 +18,6 @@
 **Bases de Datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?logo=ibm&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)
