@@ -1,13 +1,28 @@
 ## Hi 👋 I'm Margaly Flores
-**Data Analyst & Data Engineering Enthusiast**
+### Software Developer | Backend & Full Stack
+**Go · React · TypeScript · SQL**
 
-I work end-to-end with data: **relational modeling**, efficient **SQL**. I love turning raw data into **actionable insights** through clean analytics and clear dashboards. <br>
-🔹 **Stack**: PostgreSQL, MySQL, IBM DB2, Firebase, AWS (Redshift, S3) <br>
-🔹 **Languages/Libraries**: Python (Pandas, NumPy, scikit-learn, FastAPI), R, SQL / T-SQL / PL/pgSQL <br>
-🔹 **BI**: Power BI, Tableau, Excel (advanced, pivot tables) <br>
-🔹 **Interests**: Data Warehousing, ETL/ELT, dimensional modeling, data quality & governance, basic MLOps <br>
+Electronic Engineering graduate currently working in software development, building and integrating business applications with a focus on backend services, APIs, databases and modern frontend development.
 
-💡 Let’s build useful, scalable data products.
+I enjoy understanding the business problem behind a feature and turning it into maintainable software through clear architecture, domain modeling and well-defined contracts.
+
+---
+
+## 👩‍💻 What I'm currently working on
+
+I'm currently working on enterprise software projects where I participate in:
+
+- Backend development with **Go**
+- REST API design and implementation
+- Frontend development with **React + TypeScript**
+- Integration with legacy applications
+- Relational database design and SQL development
+- Multi-tenant business applications
+- File storage and processing workflows
+- Authentication and authorization flows
+- Technical analysis and software architecture
+
+Some of the technologies I work with include **Go, React, TypeScript, CockroachDB, SQL Server, PostgreSQL and Cloudflare R2**.
 
 ---
 
@@ -18,37 +33,37 @@ I work end-to-end with data: **relational modeling**, efficient **SQL**. I love 
 
 ## 💻 Tech Stack
 
-**Data Bases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+### Backend
 
-**Languages & Frameworks**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=database&logoColor=white)
-![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Data Science Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Frontend
 
-**Visualizations & BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Versioning & DevOps**  
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Cloud & Storage
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
