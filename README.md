@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Margaly Flores
-### Software Developer | Backend & Full Stack
+### Software Developer | Full Stack
 **Go · React · TypeScript · SQL**
 
-Electronic Engineering graduate currently working in software development, building and integrating business applications with a focus on backend services, APIs, databases and modern frontend development.
+Electronic Engineering currently working in software development, building and integrating business applications with a focus on backend services, APIs, databases and modern frontend development.
 
 I enjoy understanding the business problem behind a feature and turning it into maintainable software through clear architecture, domain modeling and well-defined contracts.
 
@@ -64,6 +64,24 @@ Some of the technologies I work with include **Go, React, TypeScript, CockroachD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+## 🏗️ Software Engineering
+
+I'm especially interested in designing software around business capabilities and clear domain boundaries.
+
+Concepts and practices I'm currently applying and studying:
+
+- Domain-Driven Design (DDD)
+- Hexagonal Architecture
+- Capability-oriented architecture
+- REST API design
+- Multi-tenant systems
+- Authentication & authorization
+- Database modeling
+- Stored procedures and SQL optimization
+- Legacy system modernization
+- Service integration
 
 ---
 
