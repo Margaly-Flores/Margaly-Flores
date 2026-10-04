@@ -4,7 +4,7 @@
 
 Electronic Engineering currently working in software development, building and integrating business applications with a focus on backend services, APIs, databases and modern frontend development.
 
-I enjoy understanding the business problem behind a feature and turning it into maintainable software through clear architecture, domain modeling and well-defined contracts.
+I enjoy understanding the business needs behind a feature and turning them into scalable, maintainable software with clear architecture and solid domain modeling.
 
 ---
 
@@ -70,7 +70,7 @@ Some of the technologies I work with include **Go, React, TypeScript, CockroachD
 
 I'm especially interested in designing software around business capabilities and clear domain boundaries.
 
-Concepts and practices I'm currently applying and studying:
+Concepts and practices I'm currently applying:
 
 - Domain-Driven Design (DDD)
 - Hexagonal Architecture
