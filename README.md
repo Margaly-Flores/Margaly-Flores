@@ -8,24 +8,6 @@ I enjoy understanding the business needs behind a feature and turning them into 
 
 ---
 
-## 👩‍💻 What I'm currently working on
-
-I'm currently working on enterprise software projects where I participate in:
-
-- Backend development with **Go**
-- REST API design and implementation
-- Frontend development with **React + TypeScript**
-- Integration with legacy applications
-- Relational database design and SQL development
-- Multi-tenant business applications
-- File storage and processing workflows
-- Authentication and authorization flows
-- Technical analysis and software architecture
-
-Some of the technologies I work with include **Go, React, TypeScript, CockroachDB, SQL Server, PostgreSQL and Cloudflare R2**.
-
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaly-flores/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:margaly.flores.n@uni.pe)
 
@@ -64,24 +46,6 @@ Some of the technologies I work with include **Go, React, TypeScript, CockroachD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-## 🏗️ Software Engineering
-
-I'm especially interested in designing software around business capabilities and clear domain boundaries.
-
-Concepts and practices I'm currently applying:
-
-- Domain-Driven Design (DDD)
-- Hexagonal Architecture
-- Capability-oriented architecture
-- REST API design
-- Multi-tenant systems
-- Authentication & authorization
-- Database modeling
-- Stored procedures and SQL optimization
-- Legacy system modernization
-- Service integration
 
 ---
 
